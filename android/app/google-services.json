@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771187568007",
+    "project_id": "project-ffku-2deb4",
+    "storage_bucket": "project-ffku-2deb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771187568007:android:4a66ecf274db714c59f722",
+        "android_client_info": {
+          "package_name": "com.example.deteksibuah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq2YL1x_tSdIsAV26hDueRLw02-l3uBIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
